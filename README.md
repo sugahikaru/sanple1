@@ -53,21 +53,21 @@ CRUD処理とは選手情報の登録、更新、取得、削除が可能とい�
 
 </details>
 <details>
-<summary><h4> 1-2. GET / idを指定して選手検索 </h4></summary>
+<summary><h4> 1-2. GET / 選手のid検索 </h4></summary>
 
 ![スクリーンショット 2024-07-08 220038 get3](https://github.com/sugahikaru/sanple1/assets/163830579/9fc65e5c-e7fa-4767-9f15-ffc27d91cedf)
 
 </details>
 
 <details>
-<summary><h4> 1-3. GET / クエリ文字を一覧表示 </h4></summary>
+<summary><h4> 1-3. GET / 選手のチームで検索 </h4></summary>
   
 ![スクリーンショット 2024-07-08 220453 クエリ文字](https://github.com/sugahikaru/sanple1/assets/163830579/3d3e6c05-8c6b-4276-bd2f-7b7961ee6097)
 
 
 </details>
 <details>
-<summary><h4> 1-4. GETの例外・エラー処理　存在しない選手のidを指定したとき </h4></summary>
+<summary><h4> 1-4. GETの例外・エラー処理　</h4></summary>
 
 ![スクリーンショット 2024-07-08 221120 get 例外](https://github.com/sugahikaru/sanple1/assets/163830579/33f1a56b-df9c-4585-a156-83d4cbdcf7e5)
 
@@ -85,7 +85,7 @@ CRUD処理とは選手情報の登録、更新、取得、削除が可能とい�
 
 </details>
 <details>
-<summary><h4> 3-2. PATCHの例外・エラー処理　存在しない選手のidを指定したとき　</h4></summary>
+<summary><h4> 3-2. PATCHの例外・エラー処理　</h4></summary>
 
 ![スクリーンショット 2024-06-17 215530 SSSS](https://github.com/sugahikaru/sanple1/assets/163830579/89ccce6a-7e46-4b37-bb8f-61c5001b7f16)
 
@@ -98,7 +98,7 @@ CRUD処理とは選手情報の登録、更新、取得、削除が可能とい�
 
 </details>
 <details>
-<summary><h4>4-2. DELETEの例外・エラー処理　存在しない選手のidを指定したとき　</h4></summary>
+<summary><h4>4-2. DELETEの例外・エラー処理　</h4></summary>
 
 ![スクリーンショット 2024-07-08 221209 削除例外](https://github.com/sugahikaru/sanple1/assets/163830579/59dad3c5-e8a0-4bba-aff1-6b4878dd8e19)
 
