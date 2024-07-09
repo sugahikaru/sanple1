@@ -71,6 +71,8 @@ CRUD処理とは選手情報の登録、更新、取得、削除が可能とい�
 
 ![スクリーンショット 2024-07-08 221120 get 例外](https://github.com/sugahikaru/sanple1/assets/163830579/33f1a56b-df9c-4585-a156-83d4cbdcf7e5)
 
+![スクリーンショット 2024-07-09 125319 クエリ文字例外](https://github.com/sugahikaru/sanple1/assets/163830579/803b96a9-a2a4-4603-b0ab-8687eae62af5)
+
 </details>
 <details>
 <summary><h4> 2-1. POST / 選手新規登録</h4></summary>
