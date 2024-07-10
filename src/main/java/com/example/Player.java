@@ -56,5 +56,13 @@ public class Player {
         this.team = team;
     }
 
-
+    @Override
+    public String toString() {
+        return "Player{" +
+                "id=" + id +
+                ", name='" + name + '\'' +
+                ", number=" + number +
+                ", team='" + team + '\'' +
+                '}';
+    }
 }
